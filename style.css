@@ -1,0 +1,19 @@
+
+.hero-section {
+    background-image: url('https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQmOEvuj3RpDeSY5Mf55YtfUNDGC8Ktsk-y8YhJ_kb0nbRXLneNw_hiiUy5tbGMIhHAE14&usqp=CAU/1920x1000'); /* Replace with your own image */
+    background-size: cover;
+    background-position: center;
+    color: white;
+    text-align: center;
+    padding: 80px 0;
+}
+.footer {
+    background-color: #f8f9fa;
+    padding: 20px;
+    text-align: center;
+}
+.footer .social-icons a {
+    margin: 0 10px;
+    color: #000;
+    text-decoration: none;
+}
